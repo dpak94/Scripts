@@ -1,4 +1,4 @@
-# Project A : My Project (mission) to reduce the no. of icons on the screeen and make the wallpaper viewable.
+# Access Automation : My Project (mission) to reduce the no. of icons on the screeen and make the wallpaper viewable.
 
 This project is to reduce the no. of shortcut icons on my computer screen and make it look beautiful. I assign keywords to all my regularly used apps and access them using the code in this project files. 
 
